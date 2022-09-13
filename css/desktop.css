@@ -1,0 +1,25 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-exchange-container{
+    width: 100%;
+    order: 1;
+}
+.main-product-detail{
+    width: 70%;
+    order: 2;
+}
+.bitcoin-img-container{
+    width: 30%;
+    order: 3;
+    height: auto;
+}
+.main-plans-container{
+    width: 100%;
+    order: 4;
+}
+.product-cards__container{
+    width: 900px;
+}
